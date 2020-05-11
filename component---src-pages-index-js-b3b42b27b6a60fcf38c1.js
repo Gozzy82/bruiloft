@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),i=t.n(a);n.default=function(){return i.a.createElement("div",null,"Ja we gaan trouwen... Nee! dit gebeurd niet in Indonesie... ",i.a.createElement("a",{href:"./event"},"Zie site"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-b3b42b27b6a60fcf38c1.js.map
