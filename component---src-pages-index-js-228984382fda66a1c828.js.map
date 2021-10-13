@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["href"],"mappings":"2FAAA,gCAEe,4BAAM,qDAA0B,uBAAGA,KAAK,WAAR","file":"component---src-pages-index-js-228984382fda66a1c828.js","sourcesContent":["import React from \"react\"\n\nexport default () => <div>Ja we gaan trouwen...<a href=\"./event\">Zie site</a></div>\n"],"sourceRoot":""}

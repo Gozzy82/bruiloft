@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a);n.default=function(){return r.a.createElement("div",null,"Ja we gaan trouwen...",r.a.createElement("a",{href:"./event"},"Zie site"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-228984382fda66a1c828.js.map
